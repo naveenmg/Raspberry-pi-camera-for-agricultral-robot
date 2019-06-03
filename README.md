@@ -13,7 +13,9 @@ The use of Raspberry pi for the completion of the task makes wireless communicat
 ![20190110_224058f](https://user-images.githubusercontent.com/38221793/58840016-615f5500-8664-11e9-8676-6f630bb16250.jpg)
 
 Instead of running the code of the Pi camera on the terminal, the code can be written in Python and run.
+
 The images that are captured are saved in the specified folder and send as attachments via email simultaneously. 
+
 Python provides smtplib module, which defines an SMTP client session object, which is used to send mail to any Internet machine.
 
 ![20190111_021401](https://user-images.githubusercontent.com/38221793/58840017-615f5500-8664-11e9-8131-129917e450ad.jpg)
